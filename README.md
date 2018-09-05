@@ -18,5 +18,5 @@ ui.R, server.R, .html, about.md
 * Code for UI and Server with images 
 
 **Links**
- * Shiny app for next word perdiction is running [here](https://javierngkh.shinyapps.io/WordPredictionApp/)
- * Presentation explaining approach and alogorithm is available [here]()
+ * Shiny app for next word prediction is running [here](https://javierngkh.shinyapps.io/WordPredictionApp/)
+ * Presentation explaining approach and alogorithm is available [here](http://rpubs.com/javierngkh/capstone_presentation)

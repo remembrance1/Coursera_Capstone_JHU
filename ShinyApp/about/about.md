@@ -48,7 +48,7 @@ From the frequencies of the *n*-grams table, text input by a user will be used t
 
 * The whole code of this application, as well as all the milestone report, related scripts, this presentation  etc. can be found in this GitHub repo: [https://github.com/remembrance1/Coursera_Capstone_JHU](https://github.com/remembrance1/Coursera_Capstone_JHU)
 
-* This pitch deck is located here: [XXXX](XXXX)
+* This pitch deck is located here: [http://rpubs.com/javierngkh/capstone_presentation](http://rpubs.com/javierngkh/capstone_presentation)
 
 ### References
 
